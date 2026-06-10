@@ -6,9 +6,6 @@
 
 </div>
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/da0cc702-257f-4484-be67-9ec4cdc68aba" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/3659ac77-2299-4c26-9784-a755e3e41619" />
-
 <br />
 
 ## ✨ Key Features
@@ -50,66 +47,14 @@ As a developer, I focused heavily on writing **clean, maintainable, and scalable
 
 <br/>
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v18+ recommended)
-- MongoDB instance (Local or Atlas)
-- Google Gemini API Key
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/jobprep-ai.git
-cd jobprep-ai
-```
-
-### 2. Backend Setup
-```bash
-cd backend
-npm install
-```
-Create a `.env` file in the `backend` directory:
-```env
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-GEMINI_API_KEY=your_google_gemini_api_key
-```
-Start the backend server:
-```bash
-npm run dev
-```
-
-### 3. Frontend Setup
-```bash
-cd ../frontend
-npm install
-```
-Create a `.env` file in the `frontend` directory:
-```env
-VITE_API_BASE_URL=http://localhost:5000/api
-```
-Start the frontend development server:
-```bash
-npm run dev
-```
-
-<br/>
-
-## 📸 Screenshots
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/da0cc702-257f-4484-be67-9ec4cdc68aba" />
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/3659ac77-2299-4c26-9784-a755e3e41619" />
 
 *(Add screenshots of your gorgeous UI here)*
 
 - **Home Dashboard**: Drag-and-drop resume upload and job description inputs.
-- **Loading State**: The blurred glassmorphism overlay while AI processes the request.
 - **Report View**: The highly-styled grid layout showcasing the Match Score ring, Skill Gaps, and Q&A Cards.
 
 <br/>
-
-## 👨‍💻 Author
-
-**Kartik Sharma**
-- LinkedIn
-- GitHub
-- Portfolio
 
 *If you are a recruiter reviewing this, I would love to connect and discuss how my skills can bring value to your team!*
